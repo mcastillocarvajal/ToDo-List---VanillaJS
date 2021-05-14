@@ -1,1 +1,1 @@
-# ToDo-List---VanillaJS
+# ToDo-List - VanillaJS
